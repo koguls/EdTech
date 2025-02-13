@@ -10,4 +10,10 @@
     📝 Progress Tracking: Track course completion and progress.
     🌐 Responsive Design: Accessible on desktop, tablet, and mobile devices.
 
-![Console Screenshot](img/Screenshot 2025-02-13 151754.png)
+#Home
+
+![Console Screenshot](https://github.com/koguls/EdTech/blob/09f823731ab0cbe13c2214d053911cc9d1b98458/img/Screenshot%202025-02-13%20151929.png)
+
+![Console Screenshot](https://github.com/koguls/EdTech/blob/09f823731ab0cbe13c2214d053911cc9d1b98458/img/Screenshot%202025-02-13%20151929.png)
+
+![Console Screenshot](https://github.com/koguls/EdTech/blob/09f823731ab0cbe13c2214d053911cc9d1b98458/img/Screenshot%202025-02-13%20151929.png)
