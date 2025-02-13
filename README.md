@@ -9,3 +9,5 @@
     🔒 User Authentication: Secure login, registration, and profile management.
     📝 Progress Tracking: Track course completion and progress.
     🌐 Responsive Design: Accessible on desktop, tablet, and mobile devices.
+
+![Console Screenshot](img/Screenshot 2025-02-13 151754.png)
