@@ -29,6 +29,7 @@ header .logo{
    font-size: 24px;
    font-weight: lighter;
    border-color: #333;
+   text-decoration: none;
 }
 .btn:hover{
     background-color: #FFBF00;
@@ -80,4 +81,12 @@ footer{
     text-align: start;
     font-size: 50px;
     margin-top: 30px;
+}
+
+form{
+    background-color: #8aed86;
+    padding: 10px;
+    margin: 50px 70px;
+    text-align: center;
+
 }
