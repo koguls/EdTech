@@ -1,4 +1,4 @@
-📚 EdTech Course Video Platform
+#📚 EdTech Course Video Platform
 
     A modern, easy-to-use web platform for online education and video-based learning. This project allows students to explore courses, watch educational videos, and track their progress.
 
